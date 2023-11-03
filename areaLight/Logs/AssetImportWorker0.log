@@ -1,0 +1,637 @@
+Using pre-set license
+Built from '2021.1/china_unity/release' branch; Version is '2021.1.7f1c1 (4e944ebb9621) revision 5149774'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home China; OS build 22621.2428; Version 2009; 64bit' Language: 'zh' Physical Memory: 16093 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2021.1.7f1c1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/urp/ltc-lighting/areaLight
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+64813
+Successfully changed project path to: D:/urp/ltc-lighting/areaLight
+D:/urp/ltc-lighting/areaLight
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 59.68 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.1.7f1c1 (4e944ebb9621)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.1.7f1c1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/urp/ltc-lighting/areaLight/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3060 Laptop GPU (ID=0x2520)
+    Vendor:   NVIDIA
+    VRAM:     6023 MB
+    Driver:   30.0.15.1181
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.1.7f1c1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.1.7f1c1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.1.7f1c1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56700
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.1.7f1c1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001011 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 60.85 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.110 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001213 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\urp\ltc-lighting\areaLight\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\urp\ltc-lighting\areaLight\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 59.71 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.708 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.09 seconds
+Refreshing native plugins compatible for Editor in 0.54 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4021 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 160.9 MB.
+System memory in use after: 161.1 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 4477.
+Total: 1.811600 ms (FindLiveObjects: 0.228000 ms CreateObjectMapping: 0.085300 ms MarkObjects: 1.438700 ms  DeleteObjects: 0.058700 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/AreaLightLTC
+  artifactKey: Guid(7a205064147445a4e8dab23c06058a48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AreaLightLTC using Guid(7a205064147445a4e8dab23c06058a48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4fecd7ca5fbdd72df7b123ca18963a5c') in 0.005671 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000337 seconds.
+  path: Assets/AreaLightLTC/Prefab
+  artifactKey: Guid(dab79f28b86d6a94781d632590901400) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AreaLightLTC/Prefab using Guid(dab79f28b86d6a94781d632590901400) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ffd86e93df8218464c55b8435bf97e33') in 0.002540 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.232313 seconds.
+  path: Assets/AreaLightLTC/Script
+  artifactKey: Guid(663719cc1293ba046bb6eca65eb40b79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AreaLightLTC/Script using Guid(663719cc1293ba046bb6eca65eb40b79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce484dc540159b8378fb31b4e16590d3') in 0.008981 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.305733 seconds.
+  path: Assets/AreaLightLTC/Script/cameraSceneGameMove
+  artifactKey: Guid(d01a592638edc674a83647a6d97a95c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AreaLightLTC/Script/cameraSceneGameMove using Guid(d01a592638edc674a83647a6d97a95c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '733eed7a78252e83552b791e9f5b17a8') in 0.009038 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.949914 seconds.
+  path: Assets/AreaLightLTC/Script/AreaLightLTC
+  artifactKey: Guid(24874913f7f79854dbd79d9e21f47044) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AreaLightLTC/Script/AreaLightLTC using Guid(24874913f7f79854dbd79d9e21f47044) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '620c34d40320ef06b0d7277977ec67ec') in 0.008779 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.367185 seconds.
+  path: Assets/AreaLightLTC/Script/AreaLightLTC/AreaLightLTC.cs
+  artifactKey: Guid(d207a1453e818f949acfcb6ce693d615) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AreaLightLTC/Script/AreaLightLTC/AreaLightLTC.cs using Guid(d207a1453e818f949acfcb6ce693d615) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b889e321865d07393c6c1dc51183fd0') in 0.032527 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 23.495169 seconds.
+  path: Assets/AreaLightLTC/Shader
+  artifactKey: Guid(87773f11a71a3ee4bbfc45738b4473e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AreaLightLTC/Shader using Guid(87773f11a71a3ee4bbfc45738b4473e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '814846a77b718b905d55b6135c74383a') in 0.003458 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.054400 seconds.
+  path: Assets/AreaLightLTC/Shader/AreaLightLTC.shader
+  artifactKey: Guid(b197f7faecb23dc4b9ffa7752d9de463) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AreaLightLTC/Shader/AreaLightLTC.shader using Guid(b197f7faecb23dc4b9ffa7752d9de463) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e67ab4880cb533a7f51e3cb72e42a1e') in 0.012268 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001695 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\urp\ltc-lighting\areaLight\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\urp\ltc-lighting\areaLight\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.54 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.640 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.58 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3893 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 152.0 MB.
+System memory in use after: 152.3 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 4480.
+Total: 1.884100 ms (FindLiveObjects: 0.243400 ms CreateObjectMapping: 0.095900 ms MarkObjects: 1.526400 ms  DeleteObjects: 0.017000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 67.231878 seconds.
+  path: Assets/Setting
+  artifactKey: Guid(b6d0bcec890489443bebef82608437e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Setting using Guid(b6d0bcec890489443bebef82608437e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb84afbebe72697a336c443ce531d282') in 0.007429 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.579617 seconds.
+  path: Assets/Setting/New Universal Render Pipeline Asset_Renderer.asset
+  artifactKey: Guid(8bc5688636fa0224e84fd56bf5ad794d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Setting/New Universal Render Pipeline Asset_Renderer.asset using Guid(8bc5688636fa0224e84fd56bf5ad794d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90d30a6aee10096e73801ca80a72962d') in 0.014700 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 11.026847 seconds.
+  path: Assets/AreaLightLTC
+  artifactKey: Guid(7a205064147445a4e8dab23c06058a48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AreaLightLTC using Guid(7a205064147445a4e8dab23c06058a48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f30917b1d5c64aed809fa7e2053b13a9') in 0.008067 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.579040 seconds.
+  path: Assets/AreaLightLTC/renderFeature
+  artifactKey: Guid(adb9c867d0c076b40914f68c20df30df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AreaLightLTC/renderFeature using Guid(adb9c867d0c076b40914f68c20df30df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff2dfb6ee59149a44aa29fede1a3444f') in 0.004882 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001707 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\urp\ltc-lighting\areaLight\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\urp\ltc-lighting\areaLight\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.52 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.902 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.02 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3894 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 152.1 MB.
+System memory in use after: 152.4 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 4484.
+Total: 3.451300 ms (FindLiveObjects: 0.455200 ms CreateObjectMapping: 0.188700 ms MarkObjects: 2.780500 ms  DeleteObjects: 0.024400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 80.067352 seconds.
+  path: Assets/AreaLightLTC/renderFeature/depthAndNormal.cs
+  artifactKey: Guid(073895ec918b5fc49835285d8802dcaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AreaLightLTC/renderFeature/depthAndNormal.cs using Guid(073895ec918b5fc49835285d8802dcaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b015c9c1d6c2448e476443ac043b39a1') in 0.011982 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001561 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\urp\ltc-lighting\areaLight\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\urp\ltc-lighting\areaLight\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.958 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 3.82 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3894 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 152.2 MB.
+System memory in use after: 152.4 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 4487.
+Total: 2.503300 ms (FindLiveObjects: 0.336500 ms CreateObjectMapping: 0.163300 ms MarkObjects: 1.979700 ms  DeleteObjects: 0.022100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 34.310919 seconds.
+  path: Assets/AreaLightLTC/renderFeature/depthAndNormal.cs
+  artifactKey: Guid(073895ec918b5fc49835285d8802dcaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AreaLightLTC/renderFeature/depthAndNormal.cs using Guid(073895ec918b5fc49835285d8802dcaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '969e4a05f3cf48b75a8ac15f58dfc6e0') in 0.007534 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1245.278533 seconds.
+  path: Assets/Setting/New Universal Render Pipeline Asset.asset
+  artifactKey: Guid(41202456e938d954189a0e65d6d85f01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Setting/New Universal Render Pipeline Asset.asset using Guid(41202456e938d954189a0e65d6d85f01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ebfb1f2129f0fd28c7eb86a04beef76') in 0.155607 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001776 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\urp\ltc-lighting\areaLight\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\urp\ltc-lighting\areaLight\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.882 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.17 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3896 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 152.2 MB.
+System memory in use after: 152.5 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 4490.
+Total: 6.261900 ms (FindLiveObjects: 0.287900 ms CreateObjectMapping: 0.117700 ms MarkObjects: 5.446600 ms  DeleteObjects: 0.408100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003002 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\urp\ltc-lighting\areaLight\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\urp\ltc-lighting\areaLight\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.951 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.55 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3894 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 152.2 MB.
+System memory in use after: 152.5 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 4493.
+Total: 2.355800 ms (FindLiveObjects: 0.312200 ms CreateObjectMapping: 0.116000 ms MarkObjects: 1.898100 ms  DeleteObjects: 0.027900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 877.099955 seconds.
+  path: Assets/AreaLight
+  artifactKey: Guid(b8e31f67dd452bb4dae47b8ca8b8db6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AreaLight using Guid(b8e31f67dd452bb4dae47b8ca8b8db6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b93220d09d7df0ec8207587b4c595148') in 0.018306 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.681228 seconds.
+  path: Assets/AreaLight/Shader
+  artifactKey: Guid(a5bd9b39e1d7f024c8652fea73ef67df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AreaLight/Shader using Guid(a5bd9b39e1d7f024c8652fea73ef67df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6c9486c46804a52ffb4857abefb4c5e') in 0.007528 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 17.655616 seconds.
+  path: Assets/AreaLight/Shader/CreateNormalTexture.shader
+  artifactKey: Guid(f6421ecc684885a4cae51f41553d2843) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AreaLight/Shader/CreateNormalTexture.shader using Guid(f6421ecc684885a4cae51f41553d2843) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '288827c61f3400289519258064c75d84') in 0.013974 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 209.242207 seconds.
+  path: Assets/AreaLight/Shader/CreateNormalTexture.shader
+  artifactKey: Guid(f6421ecc684885a4cae51f41553d2843) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AreaLight/Shader/CreateNormalTexture.shader using Guid(f6421ecc684885a4cae51f41553d2843) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '646985c4810006757f6a122707b70665') in 0.004746 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 66.515580 seconds.
+  path: Assets/AreaLightLTC/Script
+  artifactKey: Guid(663719cc1293ba046bb6eca65eb40b79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AreaLightLTC/Script using Guid(663719cc1293ba046bb6eca65eb40b79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a4ae1125d7e1290186e986c85326ec7') in 0.009748 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 14.099987 seconds.
+  path: Assets/AreaLightLTC/Script/AreaLightLTC
+  artifactKey: Guid(24874913f7f79854dbd79d9e21f47044) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AreaLightLTC/Script/AreaLightLTC using Guid(24874913f7f79854dbd79d9e21f47044) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7335584d96c64abe260af089dec4946c') in 0.009616 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003245 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\urp\ltc-lighting\areaLight\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\urp\ltc-lighting\areaLight\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.706 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.55 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3895 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 152.5 MB.
+System memory in use after: 152.7 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 4496.
+Total: 1.997900 ms (FindLiveObjects: 0.212400 ms CreateObjectMapping: 0.089400 ms MarkObjects: 1.550400 ms  DeleteObjects: 0.144900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 52.178297 seconds.
+  path: Assets/AreaLightLTC/renderFeature/depthAndNormal.cs
+  artifactKey: Guid(073895ec918b5fc49835285d8802dcaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AreaLightLTC/renderFeature/depthAndNormal.cs using Guid(073895ec918b5fc49835285d8802dcaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '272de93f4def6629d0e98545b5297012') in 0.005832 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.399017 seconds.
+  path: Assets/AreaLightLTC/Material
+  artifactKey: Guid(9cf21d4d2cfdebd438ffa02c5b92b830) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AreaLightLTC/Material using Guid(9cf21d4d2cfdebd438ffa02c5b92b830) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5de278c3df3b33a7426167c83c8279b') in 0.004476 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002194 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\urp\ltc-lighting\areaLight\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\urp\ltc-lighting\areaLight\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.72 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.831 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.76 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3895 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 152.5 MB.
+System memory in use after: 152.7 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 4499.
+Total: 1.857800 ms (FindLiveObjects: 0.222000 ms CreateObjectMapping: 0.086700 ms MarkObjects: 1.463000 ms  DeleteObjects: 0.085100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001906 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\urp\ltc-lighting\areaLight\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\urp\ltc-lighting\areaLight\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.74 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.837 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.77 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3895 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 152.5 MB.
+System memory in use after: 152.7 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 4502.
+Total: 1.983100 ms (FindLiveObjects: 0.280500 ms CreateObjectMapping: 0.102700 ms MarkObjects: 1.535500 ms  DeleteObjects: 0.063100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001782 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\urp\ltc-lighting\areaLight\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\urp\ltc-lighting\areaLight\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.50 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.867 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.61 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3895 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 152.5 MB.
+System memory in use after: 152.7 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 4505.
+Total: 2.777700 ms (FindLiveObjects: 0.254500 ms CreateObjectMapping: 0.103300 ms MarkObjects: 2.215400 ms  DeleteObjects: 0.202900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002568 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\urp\ltc-lighting\areaLight\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\urp\ltc-lighting\areaLight\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.46 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.936 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.69 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3895 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 152.5 MB.
+System memory in use after: 152.7 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 4508.
+Total: 2.051900 ms (FindLiveObjects: 0.246500 ms CreateObjectMapping: 0.103200 ms MarkObjects: 1.644000 ms  DeleteObjects: 0.057100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002337 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\urp\ltc-lighting\areaLight\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\urp\ltc-lighting\areaLight\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.53 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.901 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.64 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3895 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 152.5 MB.
+System memory in use after: 152.8 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 4511.
+Total: 2.045600 ms (FindLiveObjects: 0.225200 ms CreateObjectMapping: 0.093400 ms MarkObjects: 1.676400 ms  DeleteObjects: 0.049100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001380 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\urp\ltc-lighting\areaLight\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\urp\ltc-lighting\areaLight\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.54 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.636 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.78 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3895 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 152.5 MB.
+System memory in use after: 152.8 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 4514.
+Total: 2.051900 ms (FindLiveObjects: 0.219200 ms CreateObjectMapping: 0.090300 ms MarkObjects: 1.589300 ms  DeleteObjects: 0.151700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002000 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\urp\ltc-lighting\areaLight\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\urp\ltc-lighting\areaLight\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.13 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.769 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.79 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3895 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 152.5 MB.
+System memory in use after: 152.8 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 4517.
+Total: 2.518800 ms (FindLiveObjects: 0.385400 ms CreateObjectMapping: 0.144000 ms MarkObjects: 1.751600 ms  DeleteObjects: 0.236600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002710 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\urp\ltc-lighting\areaLight\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\urp\ltc-lighting\areaLight\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.87 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.077 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.10 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3895 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 152.5 MB.
+System memory in use after: 152.8 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 4520.
+Total: 2.323500 ms (FindLiveObjects: 0.273200 ms CreateObjectMapping: 0.098900 ms MarkObjects: 1.896200 ms  DeleteObjects: 0.054400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 334.543298 seconds.
+  path: Assets/AreaLightLTC/renderFeature/AreaLightLTCRender.cs
+  artifactKey: Guid(fad1199e0a4261c45924467cbb954a29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AreaLightLTC/renderFeature/AreaLightLTCRender.cs using Guid(fad1199e0a4261c45924467cbb954a29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81ac0176a4f43ac7a9ba7685875b963a') in 0.009880 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001780 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\urp\ltc-lighting\areaLight\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\urp\ltc-lighting\areaLight\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.45 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.619 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.62 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3895 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 152.5 MB.
+System memory in use after: 152.8 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 4523.
+Total: 2.298100 ms (FindLiveObjects: 0.210000 ms CreateObjectMapping: 0.094600 ms MarkObjects: 1.908800 ms  DeleteObjects: 0.082900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 556.475593 seconds.
+  path: Assets/Setting/New Universal Render Pipeline Asset_Renderer.asset
+  artifactKey: Guid(8bc5688636fa0224e84fd56bf5ad794d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Setting/New Universal Render Pipeline Asset_Renderer.asset using Guid(8bc5688636fa0224e84fd56bf5ad794d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91520dccf0fd64c6ccaecf15f23f4b1f') in 0.060740 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001382 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\urp\ltc-lighting\areaLight\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\urp\ltc-lighting\areaLight\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.37 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.856 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.76 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3895 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 152.6 MB.
+System memory in use after: 152.8 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 4528.
+Total: 2.664600 ms (FindLiveObjects: 0.308300 ms CreateObjectMapping: 0.138700 ms MarkObjects: 2.152900 ms  DeleteObjects: 0.063500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001374 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\urp\ltc-lighting\areaLight\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\urp\ltc-lighting\areaLight\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.65 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.834 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.60 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3895 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 152.6 MB.
+System memory in use after: 152.8 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 4531.
+Total: 2.898900 ms (FindLiveObjects: 0.363900 ms CreateObjectMapping: 0.125100 ms MarkObjects: 2.347100 ms  DeleteObjects: 0.061500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001999 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\urp\ltc-lighting\areaLight\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\urp\ltc-lighting\areaLight\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.83 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.934 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.60 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3895 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 152.6 MB.
+System memory in use after: 152.8 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 4534.
+Total: 2.880900 ms (FindLiveObjects: 0.332500 ms CreateObjectMapping: 0.102300 ms MarkObjects: 1.907900 ms  DeleteObjects: 0.537000 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
